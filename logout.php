@@ -11,7 +11,7 @@ session_destroy();
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Logout | AIF</title>
+    <title>Logout | EL PARKING</title>
     <!-- Favicon-->
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
@@ -43,19 +43,19 @@ session_destroy();
         </div>
         <div class="card">
             <div class="body">
-                
+
                     <h3>Acaba de finalizar su sessión</h3>
 
                     <div class="row js-sweetalert">
                         <div class="col-xs-2">
-                            
+
                         </div>
                         <div class="col-xs-8">
                             <button class="btn btn-block bg-pink waves-effect" onclick="volver()" data-type="" type="button" id="login">VOLVER A INGRESAR</button>
                         </div>
                     </div>
 
-                
+
             </div>
         </div>
     </div>
@@ -86,7 +86,7 @@ session_destroy();
 		}
 	</script>
 
-    
+
 </body>
 
 </html>
