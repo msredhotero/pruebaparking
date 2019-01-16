@@ -82,7 +82,7 @@ session_destroy();
     <script src="js/pages/ui/dialogs.js"></script>
 	<script>
 		function volver() {
-			document.location.href = 'index.html';
+			document.location.href = 'index.php';
 		}
 	</script>
 
