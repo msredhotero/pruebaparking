@@ -11,7 +11,7 @@ session_destroy();
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Logout | SAHILICES</title>
+    <title>Logout | EL PARKING</title>
     <!-- Favicon-->
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
@@ -38,8 +38,8 @@ session_destroy();
 <body class="login-page">
     <div class="login-box">
         <div class="logo">
-           <a href="javascript:void(0);">Acceso <b>SAHILICES</b></a>
-           <small>Administración Sistema de Oportunidades - Cotizaciones</small>
+           <a href="javascript:void(0);">Acceso <b>EL PARKING</b></a>
+           <small>Administración de Alergenicos</small>
         </div>
         <div class="card">
             <div class="body">
