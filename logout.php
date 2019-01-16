@@ -38,8 +38,8 @@ session_destroy();
 <body class="login-page">
     <div class="login-box">
         <div class="logo">
-            <a href="javascript:void(0);">Acceso <b>AIF</b></a>
-            <small>Administración de Equipos, Countries, Jugadores y Datos Personales</small>
+            <a href="javascript:void(0);">Acceso <b>EL PARKING</b></a>
+            <small>Administración de Alerginicos</small>
         </div>
         <div class="card">
             <div class="body">
